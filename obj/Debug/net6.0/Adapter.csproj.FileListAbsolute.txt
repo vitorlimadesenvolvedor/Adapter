@@ -1,0 +1,15 @@
+C:\Users\Vitor Lima\Projetos\Estudos\Design_Patterns\Structural_Patterns\Adapter\bin\Debug\net6.0\Adapter.exe
+C:\Users\Vitor Lima\Projetos\Estudos\Design_Patterns\Structural_Patterns\Adapter\bin\Debug\net6.0\Adapter.deps.json
+C:\Users\Vitor Lima\Projetos\Estudos\Design_Patterns\Structural_Patterns\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+C:\Users\Vitor Lima\Projetos\Estudos\Design_Patterns\Structural_Patterns\Adapter\bin\Debug\net6.0\Adapter.dll
+C:\Users\Vitor Lima\Projetos\Estudos\Design_Patterns\Structural_Patterns\Adapter\bin\Debug\net6.0\Adapter.pdb
+C:\Users\Vitor Lima\Projetos\Estudos\Design_Patterns\Structural_Patterns\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+C:\Users\Vitor Lima\Projetos\Estudos\Design_Patterns\Structural_Patterns\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Lima\Projetos\Estudos\Design_Patterns\Structural_Patterns\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\Vitor Lima\Projetos\Estudos\Design_Patterns\Structural_Patterns\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+C:\Users\Vitor Lima\Projetos\Estudos\Design_Patterns\Structural_Patterns\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Lima\Projetos\Estudos\Design_Patterns\Structural_Patterns\Adapter\obj\Debug\net6.0\Adapter.dll
+C:\Users\Vitor Lima\Projetos\Estudos\Design_Patterns\Structural_Patterns\Adapter\obj\Debug\net6.0\refint\Adapter.dll
+C:\Users\Vitor Lima\Projetos\Estudos\Design_Patterns\Structural_Patterns\Adapter\obj\Debug\net6.0\Adapter.pdb
+C:\Users\Vitor Lima\Projetos\Estudos\Design_Patterns\Structural_Patterns\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
+C:\Users\Vitor Lima\Projetos\Estudos\Design_Patterns\Structural_Patterns\Adapter\obj\Debug\net6.0\ref\Adapter.dll
